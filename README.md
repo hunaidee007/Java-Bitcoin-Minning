@@ -1,9 +1,22 @@
 # Java-Bitcoin-Minning
 Bitcoin Minning explained with Java
 
-This code explain show bitcoin minning internally works
+This code explains how bitcoin minning internally works
 
 ![alt text](https://4.bp.blogspot.com/-7uW7KMP-Htw/Wld3Dq7gaRI/AAAAAAAAA9M/k-GCq90027IGF5DKimm55EV4K6ryPpFmwCLcBGAs/s640/MinnerParticipants.png)
+
+In the above image, we have 5 participants who transact with each other. Out of these A and B are also miners.
+
+They will validated the block.
+
+In the code below sequence of events undertake:
+
+1. Participants transact with each other after every 2 seconds
+2. A and B wait for the block to be created
+3. BitCoin Engine creates the block after a certain number of transaction threshold has reached
+4. A and B start minning and compete with each other. The first one to mine wins
+5 Step 1 starts again
+
 
 below is the output of the code :
 ```
