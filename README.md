@@ -3,6 +3,8 @@ Bitcoin Minning explained with Java
 
 This code explain show bitcoin minning internally works
 
+![alt text](https://4.bp.blogspot.com/-7uW7KMP-Htw/Wld3Dq7gaRI/AAAAAAAAA9M/k-GCq90027IGF5DKimm55EV4K6ryPpFmwCLcBGAs/s640/MinnerParticipants.png)
+
 below is the output of the code :
 ```
 0
